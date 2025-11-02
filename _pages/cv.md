@@ -1,4 +1,4 @@
-<object data="/files/CV.pdf" type="application/pdf" width="100%" height="800px">
+<object data="/files/Dima_Cheskis_CV_April_2025.pdf" type="application/pdf" width="100%" height="800px">
   <p><a href="/files/CV.pdf">Download the CV</a> (PDF viewer not supported by your browser)</p>
 </object>
 
