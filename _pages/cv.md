@@ -1,3 +1,7 @@
+<object data="/files/CV.pdf" type="application/pdf" width="100%" height="800px">
+  <p><a href="/files/CV.pdf">Download the CV</a> (PDF viewer not supported by your browser)</p>
+</object>
+
 ---
 layout: archive
 title: "CV"
